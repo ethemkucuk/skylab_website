@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <SectionWrapper
-        title='Designerio'
+        title='DESIGNERIO'
         description='Where Innovation Meets Imagination'
         showBtn
         mockupImg={assets.homeHero}
